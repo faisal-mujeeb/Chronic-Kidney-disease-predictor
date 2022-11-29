@@ -1,3 +1,3 @@
 This project uses decision tree algo
 cuz gave the accuracy of around 98.6% .
-Even though we can use linear regression oor logistic regression
+Even though we can use linear regression or logistic regression but the accuracy was much lower.
