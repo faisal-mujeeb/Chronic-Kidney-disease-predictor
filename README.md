@@ -27,3 +27,15 @@ Kidney Disease Dataset
 Models with their Accuracy of Prediction
 Disease	Type of Model	Accuracy
 Kidney-Disease	Machine Learning Model	98.33%
+
+#Prerequisites
+To run this project, you need to have the following installed on your system:
+
+Python 3
+Pandas
+NumPy
+Scikit-learn
+You can install the required libraries using the following command:
+
+Copy code
+pip install pandas numpy scikit-learn
